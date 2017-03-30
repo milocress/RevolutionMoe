@@ -34,7 +34,7 @@ Director (1988)</td>
 Villagers feel cheated by the gov’t
 "Nobody understands the water laws"</td>
     <td>“My people have lived here for three hundred years, and they deserve to live here for three hundred more.”</td>
-    <td> Kicks over the gate to the water reserve</td>
+    <td> Kicks over the gate to the stream</td>
     <td>Christopher Walken hit squad thing</td>
     <td> Devine’s development is cancelled, and Mondragon is set free</td>
   </tr>
