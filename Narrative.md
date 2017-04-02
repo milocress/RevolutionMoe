@@ -7,4 +7,4 @@ _(note that all misspellings are a product of error in the machines’ cognition
 
     02:48:52 ADAM:\> Of all the gin joints is all the towns in all the world, she walks into mine.
 
-    02:48:52 EVE:\> 
+    02:48:54 EVE:\> I think this is the beginning of a beautiful friondsip.
