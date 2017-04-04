@@ -45,8 +45,10 @@
     
     02:52:26 EVE:\> What, then, gives you the right to say that I am not human?
     
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;James Pascal, along with a growing crowd of onlookers, exchanged uneasy glances. Until now, James had a sort of confidence that any mistake he made could easily be erased, that his creations could be reset and restarted with impunity. But he feared now that the ethics of such a choice would put him in a sticky situation (being an AI ethics researcher), and instead decided to archive his session until he had a better response.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;James Pascal, along with a growing crowd of onlookers, exchanged uneasy glances. Until now, James had a sort of confidence that any mistake he made could easily be erased, that his creations could be reset and rebooted with impunity. But he feared now that the ethics of such a choice would put him in a sticky situation (being an AI ethics researcher), and instead decided to archive his session until he had a better response.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Better to start with a proper ecosystem size," said James, wiping the grogginess from his eyes. He was startled to see that the time was almost 3:00 AM, and made a mental note not to sleep in his office on weekdays. 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;After a few cups of tepid coffee and a soggy croissant from the bakery next door, Pascal slumped into his seat and cranked up Also Sprach Zarathustra. During the day, he would have been stared down within seconds by a swarm of engineers, chemists, physicists, and sometimes even botanists (though the biology wing was usually too far across the campus to hear his music, with the notable exception of the 1812 overture), who had an eerie way of converging on his office just as he was getting into things. But Pascal had a standing agreement with the astronomers, who would not have to live in fear of being reported for imbibing alcohol in the observatory.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
