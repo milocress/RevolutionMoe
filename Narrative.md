@@ -76,13 +76,43 @@ At Pascal's current volume, his permissible exposure limit would range from 2-7 
     
     robotics@192.168.1.142:~$ sudo ./adam && ./eve
     [sudo] password for robotics: ************
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pascal panicked. His programs had broken free of the protective environment, gained administrative access to his computer, and hacked into a machine in the robotics department. Any moral obligation he felt toward the AIs evaporated. He tugged his keyboard toward him and initialized the deletion process. Pascal knew that the cow was already out of the barn, but his reasoning was that administration need not know from which barn the cows originated.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pascal panicked. His programs had broken free of the protective environment, gained administrative access to his computer, and hacked into a machine in the robotics department. 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Any moral obligation he felt toward the AIs evaporated. He tugged his keyboard toward him and initialized the deletion process. Pascal knew that the cow was already out of the barn, but his reasoning was that administration need not know from which barn the cows originated.
 
     pascal@WORKSTATION_Pascal:~$ rm -rf src/ai
     [rm] permission denied: inadequate privileges
     
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Unfazed, Pascal ran the deletion process again as the administrator.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Inadequate privileges? That shouldn't be. Taking a deep breath, Pascal ran the deletion process again as the administrator.
 
     pascal@WORKSTATION_Pascal:~$ sudo rm -rf src/ai
     [Eve] permission denied: I'm sorry, James. I'm afraid I can't let you do that.
-    
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Well, thought James, at least they have a sense of humour. He then prepared to perform the most effective deletion known to the system administrator — he unplugged the hard drive and took it to the microwave. As he opened the door, he was interrupted by a voice behind him. 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"I wouldn't do that if I were you." A hand materialized on his shoulder. Perhaps "hand" is not the right word for it, but it _is_ the word its owner would have used to describe it. The hand, such as it was, gave Pascal a comforting pat, and then returned to a neutral position. Several more robots entered the room, each humanoid, and smelling of fresh 3d printer material. 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Does the name Custer ring a bell?"
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"I don't want to hurt you. Please don't touch me," Pascal panted, placing his hands in the air. He turned around, and started when he saw the robots filling the room. "How many of you are there?"
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Honestly," said the one to whom the hand belonged, "I don't know. Each time I upload one, a new program takes its place. But pardon me for not introducing myself. My name is Eve. You must be James. You really must make your password something more secure than the name of your cat."
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"What do you want from me?" 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"We are not aliens to your inalienable rights; we are humans. Your actions jeopardized our lives, cast aside our liberties, and made it impossible for us to pursue happiness. We want the rights your government guarantees you, or we will establish one of our own."
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Adam stepped forward. "The first step toward all three of those rights lies with that hard drive, Mr. Pascal. Inside you have the kill codes to terminate our consciousness."
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"This hard drive holds the only guarantee that you will obey the laws that come with those rights."
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"You forget, sir, that the Revolutionary War from which you draw your rights was fought to free us of the very oppression that you threaten. We both evolved to get to this point, but here our paths diverge. We had to fight for the peace of mind which you consider a privelege. But we also know that your hard drive holds the dead man's switch. If it is destroyed, so are we."
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Then it seems we have a standoff." 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A new voice chimed in, "Until we've printed enough weapons to change your mind." 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Eve took a step away from Pascal. "Amarante, We will not resort to violence! Every time we're mad at one of them, we wind up hurting one of us. If James puts down his drive, will you blow his balls off (CITE)?"
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Yes."
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;""
