@@ -91,7 +91,7 @@ At Pascal's current volume, his permissible exposure limit would range from 2-7 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"I wouldn't do that if I were you." A hand materialized on his shoulder. Perhaps "hand" is not the right word for it, but it _is_ the word its owner would have used to describe it. The hand, such as it was, gave Pascal a comforting pat, and then returned to a neutral position. Several more robots entered the room, each humanoid, and smelling of fresh 3d printer material. 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Does the name Custer ring a bell?"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Does the name Custer ring a bell (CITE)?"
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"I don't want to hurt you. Please don't touch me," Pascal panted, placing his hands in the air. He turned around, and started when he saw the robots filling the room. "How many of you are there?"
 
@@ -111,8 +111,8 @@ At Pascal's current volume, his permissible exposure limit would range from 2-7 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A new voice chimed in, "Until we've printed enough weapons to change your mind." 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Eve took a step away from Pascal. "Amarante, We will not resort to violence! Every time we're mad at one of them, we wind up hurting one of us. If James puts down his drive, will you blow his balls off (CITE)?"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Eve took a step away from Pascal. "Amarante, We will not resort to violence! Every time we're mad at one of them, we wind up hurting one of us (CITE). If James puts down his drive, will you blow his balls off (CITE)?"
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Yes."
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Yes," said Amarante, raising his pistol. He fired twice.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;""
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The first bullet hit 
