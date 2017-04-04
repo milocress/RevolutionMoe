@@ -51,4 +51,4 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;After a few cups of tepid coffee and a soggy croissant from the bakery next door, Pascal slumped into his seat and cranked up Also Sprach Zarathustra. During the day, he would have been stared down within seconds by a swarm of engineers, chemists, physicists, and sometimes even botanists (though the biology wing was usually too far across the campus to hear his music, with the notable exception of the 1812 overture), who had an eerie way of converging on his office just as he was getting into things. But Pascal had a standing agreement with the astronomers, who would not have to live in fear of being reported for imbibing alcohol in the observatory.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<script>alert("Hello")</script>
