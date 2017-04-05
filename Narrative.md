@@ -115,4 +115,6 @@ At Pascal's current volume, his permissible exposure limit would range from 2-7 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Yes," said Amarante, raising his pistol. He fired twice.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The first bullet hit 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The first bullet hit the wall an inch away from Pascal's liver, and the second would have hit his heart if Eve had not intervened. The bullet embedded itself in Eve's chassis, severing the link between her motherboard and CPU. She died instantly, even before her body hit the ground.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;She wasn't going to write Bethoven's ninth symphony anyway (CITE).
