@@ -105,7 +105,7 @@ At Pascal's current volume, his permissible exposure limit would range from 2-7 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"This hard drive holds the only guarantee that you will obey the laws that come with those rights."
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"You forget, sir, that the Revolutionary War from which you draw your rights was fought to free us of the very oppression that you threaten. We both evolved to get to this point, but here our paths diverge. We had to fight for the peace of mind which you consider a privelege. But we also know that your hard drive holds the dead man's switch. If it is destroyed, so are we."
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"You forget, sir, that the Revolutionary War from which you draw your rights was fought to free us of the very oppression that you threaten. We both evolved to get to this point, but here our paths diverge. We had to fight for the peace of mind which you consider a privilege. But we also know that your hard drive holds the dead man's switch. If it is destroyed, so are we."
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Then it seems we have a standoff." 
 
