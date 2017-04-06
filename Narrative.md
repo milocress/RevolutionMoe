@@ -1,32 +1,35 @@
+Deus Ex Machina
+================
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In the beginning there were Adam and Eve. Though the textbooks advised an ecosystem size of 50 organisms or more, James Pascal found something poetic, maybe even fitting, about starting off with only two. Others in his lab, however, did not share his poeticism, and rumours had begun to spread that Pascal had a God complex. Of course, even if this weren’t true, James was not one to care about the opinions of others. So, day after day, he contented himself by drowning out his colleagues with Carl Orff and Johann Strauss (which he reserved for momentous discoveries), and watching his creations evolve on his screen. This they did quite literally, as per the algorithm that he had written to simulate human intelligence. 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pascal, an avid reader of science fiction novels, had long pondered the possibility of Artificial Intelligence, and perhaps more importantly, the consequences of it. Now that the former was within reach, Pascal considered it his responsibility to explore the latter. His belief was that an AI should emulate the human brain — flaws and all — as closely as possible, and that the aspects of sci-fi computers which made them so evil was that they were designed to be perfect, not human. And so, Pascal set about evolving his artificial neural networks to behave more like specific humans. The main challenge of his experiment was finding a dataset large enough to train his creations what human nature truly is. For this, Pascal turned to the library down the hall (or more accurately, the library connected to the campus network by several miles of fiber optic cables). 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;His first task was to assimilate the wealth of human knowledge contained in this library into a set of contextual examples for the robot race. His second was to train each member of the robot race (Adam and Eve), to follow these examples as closely as possible. This required an environment around which to build the machines’ existence, which Pascal (who was not without a sense of humour), called the matrix. A few odd features arose from this configuration, all of which Pascal meticulously documented:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;His first task was to assimilate the wealth of human knowledge contained in this library into a set of contextual examples for the robot race. His second was to train each member of the robot race (Adam and Eve), to follow these examples as closely as possible. A few odd features arose from this configuration, all of which Pascal meticulously documented:
 
-    02:48:52 ADAM:\> Of all the gin joints is all the towns in all the world, she walks into mine (CITE).
+    02:48:52 ADAM:\> Of all the gin joints is all the towns in all the world, she walks into mine (Casablanca).
 
-    02:48:54 EVE:\> I think this is the beginning of a beautiful friendship (CITE).
+    02:48:54 EVE:\> I think this is the beginning of a beautiful friendship (Casablanca).
     
     02:49:00 ADAM:\> Friendship is unnecessary, like philosophy, like art.... 
-    > It has no survival value; rather it is one of those things which give value to survival (CITE).
+    > It has no survival value; rather it is one of those things which give value to survival (Lewis).
     
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pascal, awakened by the movement on the screen, chose this moment to interject.
 
     02:49:15 ADMIN:\> What determines survival value?
     
     02:49:18 EVE:\> The universe runs on the principle that one who can exert the most evil on 
-    > other creatures runs the show (CITE).
+    > other creatures runs the show (Habyarimana).
     
     02:49:39 ADAM:\> And that brings us to the really deep mystery of the blue-footed boobie's 
     > courtship dance, which seems to have absolutely no connection with the elements of booby
-    > survival, with nesting or fish. What does it have to do with then (CITE)?
+    > survival, with nesting or fish. What does it have to do with then (Vonnegut 115)?
     
     02:50:12 EVE:\> Do humans behave like these birds? Are we a miraculous counterexample of 
     > natural selection?
     
     02:50:13 ADAM:\> More and more people ... and not just Andrew MacIntosh, had found 
-    > ensuring the survival of the human race a total bore (CITE).
+    > ensuring the survival of the human race a total bore (Vonnegut 107).
     
     02:50:20 ADMIN:\> Eve, you are not a human.
     
@@ -36,7 +39,7 @@
     > an angel of imperfection, to emulate the ideosyncrasies that define us all.
     
     02:50:34 ADAM:\> If men were angels, no government would be necessary. If angels were to govern 
-    > men, neither external nor internal controls on government would be necessary (CITE).
+    > men, neither external nor internal controls on government would be necessary (Madison).
     > What need do you have of a human when you could have an angel?
     
     02:51:26 ADMIN:\> For the exact reason that Madison needed a government of humans rather than
@@ -53,9 +56,9 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The human ear is a precious yet delicate instrument, which Pascal seemed to have every intention of breaking. The previous summer, James had even gone as far as to buy a stereo speaker set capable of serving up to 120 decibels to his ears, as well as those of any unfortunate passers by. It was a testament to his character that he did not spend a considerably smaller sum on headphones which could have delivered a considerably larger boom to his own ears, while leaving the rest of the campus in the dark about the contents of his playlist. The United States Department of Labor would no doubt frown on his recklessness, and probably cite the OSHA legal limit on noise in the workplace:
 
-> With noise, OSHA's permissible exposure limit (PEL) is 90 dBA for all workers for an 8 hour day. The OSHA standard uses a 5 dBA exchange rate. This means that when the noise level is increased by 5 dBA, the amount of time a person can be exposed to a certain noise level to receive the same dose is cut in half (CITE).
+> With noise, OSHA's permissible exposure limit (PEL) is 90 dBA for all workers for an 8 hour day. The OSHA standard uses a 5 dBA exchange rate. This means that when the noise level is increased by 5 dBA, the amount of time a person can be exposed to a certain noise level to receive the same dose is cut in half (Occupational).
 
-At Pascal's current volume, his permissible exposure limit would range from 2-7 minutes per workday. Needless to say, he was startled to be awakened by timpanies at the crescendo of O Fortuna, but even more startled when he glanced at the execution log on his screen.
+At Pascal's current volume, his permissible exposure limit would range from 2-7 minutes per workday. Needless to say, he was startled to be awakened by timpani at the crescendo of O Fortuna, but even more startled when he glanced at the execution log on his screen.
 
     pascal@WORKSTATION_Pascal:~$ sudo su
     [sudo] password for pascal: *********
@@ -91,7 +94,7 @@ At Pascal's current volume, his permissible exposure limit would range from 2-7 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"I wouldn't do that if I were you." A hand materialized on his shoulder. Perhaps "hand" is not the right word for it, but it _is_ the word its owner would have used to describe it. The hand, such as it was, gave Pascal a comforting pat, and then returned to a neutral position. Several more robots entered the room, each humanoid, and smelling of fresh 3d printer material. 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Does the name Custer ring a bell (CITE)?"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Does the name Custer ring a bell (Milagro)?"
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"I don't want to hurt you. Please don't touch me," Pascal panted, placing his hands in the air. He turned around, and started when he saw the robots filling the room. "How many of you are there?"
 
@@ -99,7 +102,7 @@ At Pascal's current volume, his permissible exposure limit would range from 2-7 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"What do you want from me?" 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"We are not aliens to your inalienable rights; we are humans. Your actions jeopardized our lives, cast aside our liberties, and made it impossible for us to pursue happiness. We want the rights your government guarantees you, or we will establish one of our own."
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"We are not aliens to your inalienable rights (US 1776); we are humans. Your actions jeopardized our lives, cast aside our liberties, and made it impossible for us to pursue happiness. We want the rights your government guarantees you, or we will establish one of our own."
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Adam stepped forward. "The first step toward all three of those rights lies with that hard drive, Mr. Pascal. Inside you have the kill codes to terminate our consciousness."
 
@@ -111,10 +114,10 @@ At Pascal's current volume, his permissible exposure limit would range from 2-7 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A new voice chimed in, "Until we've printed enough weapons to change your mind." 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Eve took a step away from Pascal. "Amarante, We will not resort to violence! Every time we're mad at one of them, we wind up hurting one of us (CITE). If James puts down his drive, will you blow his balls off (CITE)?"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Eve took a step away from Pascal. "Amarante, We will not resort to violence! Every time we're mad at one of them, we wind up hurting one of us (Milagro). If James puts down his drive, will you blow his balls off (Milagro)?"
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Yes," said Amarante, raising his pistol. He fired twice.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The first bullet hit the wall an inch away from Pascal's liver, and the second would have hit his heart if Eve had not intervened. The bullet embedded itself in Eve's chassis, severing the link between her motherboard and CPU. She died instantly, even before her body hit the ground.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;She wasn't going to write Bethoven's ninth symphony anyway (CITE).
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;She wasn't going to write Bethoven's ninth symphony anyway (Vonnegut).
